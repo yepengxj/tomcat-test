@@ -1,1 +1,1 @@
-FROM tomcat
+FROM docker.io/library/tomcat
